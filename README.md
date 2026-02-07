@@ -1,5 +1,5 @@
 Click here to see Simple HTML Project:
-C:\Users\DELL\Documents\GitHub\html-portfolio\index.html
+https://agayithri12.github.io/html-portfolio/
 
 #Technologies Used
 * HTMl
